@@ -1,0 +1,1 @@
+cmd /k "cd /d D:\gitRepos\autoVideoMerge && python .\remove-short-videos.py"
